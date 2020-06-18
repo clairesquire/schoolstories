@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+  /* General styling */
+
+body {
+  font-size: 12px;
+  font-family: Open Sans;
+  color: black;
+  font-weight: 200px;
+  
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  opacity: 1;
+  color: #EB5925;
+  text-align: center;
+  text-weight: bold;
+  border-radius: 30px;
+  padding: 6px;
+  top: 100%;
+  left: 50%;
+  margin-left: 5px;
+  margin-top:10px;
+
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+  /* THIS IS WHERE WE CHANGE THE WEEKLY THEME */
+
+</style>
+<body style="text-align:center;">
+
+<div class="tooltip">This week's theme is <a href="http://schoolstorieslab.com/?page_id=759(opens%20in%20a%20new%20tab">
+
+
+racism
+
+
+
+</a>.
+  <span class="tooltiptext">Share your story!</span>
+</div>
+
+</body>
+</html>
