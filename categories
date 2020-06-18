@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<h2>
+<center>
+<style>
+
+  /* General styling */
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: #EB5925;
+}
+a:active {
+  text-decoration: none;
+  color: #C5496A
+}
+</style>
+
+
+
+<a href="http://schoolstorieslab.com/?cat=39" style="text-decoration: none">Cheating&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+
+<a href="http://schoolstorieslab.com/?cat=35" style="text-decoration: none">Dedication&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="http://schoolstorieslab.com/?cat=41" style="text-decoration: none">Family&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="http://schoolstorieslab.com/?cat=34" style="text-decoration: none">Friendship&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="http://schoolstorieslab.com/?cat=37" style="text-decoration: none">Motivation&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="http://schoolstorieslab.com/?cat=42" style="text-decoration: none">Nostalgia&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="http://schoolstorieslab.com/?cat=38" style="text-decoration: none">Well-Being&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a 
+
+/* THIS IS WHERE WE ADD NEW THEMES */
+
+
+href="YOUR-LINK-HERE" style="text-decoration: none">NEW THEME HERE&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</a>
+
+</center>
+
+</h2>
+  
